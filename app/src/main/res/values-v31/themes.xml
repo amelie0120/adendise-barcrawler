@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.App.Starting" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/white</item>
+        <item name="postSplashScreenTheme">@style/Theme.HelloWorldKt</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/our_animated_icon</item>
+    </style>
+
+<!--    <style name="Theme.AppCompat.Starting" parent="Theme.SplashScreen">-->
+<!--        <item name="windowSplashScreenBackground">@color/black</item>-->
+<!--        <item name="postSplashScreenTheme">@style/Theme.HelloWorldKt</item>-->
+<!--        <item name="android:windowSplashScreenAnimatedIcon">@drawable/our_animated_icon</item>-->
+<!--    </style>-->
+</resources>

@@ -1,0 +1,1 @@
+val visited: IntArray = IntArray(selectedBars.size) { 0 }

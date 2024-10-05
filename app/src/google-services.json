@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "471863336319",
+    "project_id": "adendise",
+    "storage_bucket": "adendise.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471863336319:android:28be21802f564a212d4e4a",
+        "android_client_info": {
+          "package_name": "es.upm.btb.helloworldkt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfDUYloJCSdYkJKSBBaIpj7-dPsFHg6_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
